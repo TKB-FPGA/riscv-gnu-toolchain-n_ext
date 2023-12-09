@@ -1,7 +1,7 @@
 [submodule "binutils"]
 	path = binutils
-	url = https://sourceware.org/git/binutils-gdb.git
-	branch = binutils-2_41-release-point
+  url = https://github.com/TKB-FPGA/binutils-n_ext.git
+	branch = master
 [submodule "gcc"]
 	path = gcc
 	url = https://gcc.gnu.org/git/gcc.git
